@@ -8,6 +8,6 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-  <img align="left" alt="Meus Stats do GitHub" src="https://github-readme-stats-git-main-stefanorcarvalho.vercel.app/api?username=stefanorcarvalho&show_icons=true&hide_border=true&theme=transparent" />
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stefanorcarvalho)](https://github.com/stefanorcarvalho/github-readme-stats)
   
 </details>
