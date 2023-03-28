@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi there 👋
+
+![](https://media.tenor.com/g-THCW9QEHgAAAAC/uhh.gif)
 
 - 🌱 I’m currently learning HTML/CSS/JavaScript
 - 💬 Ask me about animes, movies, games and motorcycles
